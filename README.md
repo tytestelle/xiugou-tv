@@ -1,5 +1,5 @@
 # 修狗TV（xiugou-tv）
-
+https://github.com/qfw66/xiugou-tv
 一款面向 Windows 的桌面影视聚合播放客户端。
 
 <p align="center">
